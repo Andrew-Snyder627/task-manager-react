@@ -1,5 +1,37 @@
 # React + Vite
 
+# React Task Manager Exploration
+
+This project is an **exploratory React application** built to practice using core React concepts such as components, props, state management, and hooks.
+
+## Purpose
+
+The main goal of this project is to:
+- Build comfort with React fundamentals through hands-on coding
+- Practice creating and organizing a React file structure
+- Integrate and work with an existing API called **Task Manager**
+
+## Features
+
+- React component-based structure
+- State management using `useState` and related hooks
+- Fetching and rendering tasks from an external API
+- Basic styling and layout setup
+
+## API Integration
+
+The project integrates with an existing API named **Task Manager**. The API provides task data which is fetched and displayed in the app.
+
+## Status
+
+This is a learning-focused, work-in-progress project. It will evolve as new concepts and techniques are practiced.
+
+---
+
+Created for educational and personal development purposes.
+
+---
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
