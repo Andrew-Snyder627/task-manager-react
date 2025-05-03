@@ -28,7 +28,7 @@ This is a learning-focused, work-in-progress project. It will evolve as new conc
 
 ---
 
-Created for educational and personal development purposes.
+Project has been fully integrated into a simple rails api only named task-manager. Only simple fetching has been enabled and all project requirements have been completed. Link to back end can be found [here](https://github.com/Andrew-Snyder627/Task_Manager) 
 
 ---
 
